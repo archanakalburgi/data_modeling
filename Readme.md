@@ -59,6 +59,6 @@ A short slack message composed for the business stakeholders. Servers as an answ
 
 Details of the SQL queried and more information on the queries 
 
-### fetch_analytics
+#### fetch_analytics
 
 This a python virtual environment, required to run `script.py` 
