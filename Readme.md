@@ -61,7 +61,3 @@ A short slack message composed for the business stakeholders. Servers as an answ
 3. [sql_queries.md](writeup/sql_queries.md)
 
 Details of the SQL queried and more information on the queries 
-
-#### fetch_analytics
-
-This a python virtual environment, required to run `script.py` 
