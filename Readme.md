@@ -4,12 +4,14 @@ After cloning the directory into the local machine, to successfully execute code
 
 On terminal execute the following commands
 
-To activate python virtual environment 
+Create and activate python virtual environment 
 
 ```
 python3 -m venv fetch_analytics
 source fetch_analytics/bin/activate
 ```
+
+Install required packages
 
 ```
 pip install -r requirement.txt
